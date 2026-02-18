@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Northstar Ventures project placeholder">
+  <rect width="1200" height="760" fill="#F6F7F9"/>
+  <rect x="52" y="50" width="1096" height="660" rx="10" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="92" y="92" width="1016" height="52" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="118" y="112" width="220" height="16" fill="#162A4F"/>
+  <rect x="92" y="192" width="540" height="40" fill="#1C1F26"/>
+  <rect x="92" y="250" width="440" height="18" fill="#4B5563"/>
+  <rect x="92" y="280" width="400" height="18" fill="#4B5563"/>
+  <rect x="92" y="328" width="170" height="40" rx="6" fill="#162A4F"/>
+  <rect x="640" y="190" width="468" height="206" rx="8" fill="#F6F7F9" stroke="#E5E7EB"/>
+  <rect x="640" y="444" width="468" height="206" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="96" y="680" fill="#4B5563" font-family="Arial, sans-serif" font-size="20">Northstar Ventures</text>
+</svg>

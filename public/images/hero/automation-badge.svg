@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 90" role="img" aria-label="Automation active badge">
+  <rect width="220" height="90" rx="10" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="16" y="18" width="118" height="14" fill="#162A4F"/>
+  <rect x="16" y="43" width="88" height="10" fill="#4B5563"/>
+  <circle cx="188" cy="45" r="15" fill="#16A34A"/>
+</svg>

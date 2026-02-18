@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-label="CRM pipeline preview">
+  <rect width="1200" height="620" fill="#FFFFFF"/>
+  <rect x="50" y="40" width="1100" height="540" rx="12" fill="#F6F7F9" stroke="#E5E7EB"/>
+  <rect x="84" y="86" width="320" height="450" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="440" y="86" width="320" height="450" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="796" y="86" width="320" height="450" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="106" y="128" fill="#1C1F26" font-family="Arial, sans-serif" font-size="24">New</text>
+  <text x="462" y="128" fill="#1C1F26" font-family="Arial, sans-serif" font-size="24">Qualified</text>
+  <text x="818" y="128" fill="#1C1F26" font-family="Arial, sans-serif" font-size="24">Closed</text>
+  <circle cx="1092" cy="120" r="8" fill="#16A34A"/>
+  <rect x="104" y="158" width="280" height="66" rx="6" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="460" y="158" width="280" height="66" rx="6" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="816" y="158" width="280" height="66" rx="6" fill="#F9FAFB" stroke="#E5E7EB"/>
+</svg>

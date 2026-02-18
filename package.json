@@ -1,0 +1,41 @@
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "NODE_OPTIONS='--no-experimental-webstorage' next dev --turbopack",
+    "build": "NODE_OPTIONS='--no-experimental-webstorage' next build",
+    "start": "NODE_OPTIONS='--no-experimental-webstorage' next start",
+    "lint": "NODE_OPTIONS='--no-experimental-webstorage' next lint",
+    "test:e2e": "NODE_OPTIONS='--no-experimental-webstorage' playwright test"
+  },
+  "dependencies": {
+    "@sanity/client": "^7.13.2",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "groq": "^4.2.1",
+    "html2canvas": "^1.4.1",
+    "lucide-react": "^0.541.0",
+    "next": "15.3.5",
+    "next-sanity": "^11.6.2",
+    "next-pwa": "^5.6.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-draggable": "^4.5.0",
+    "react-pinch-zoom-pan": "^1.4.5",
+    "tailwind-merge": "^3.3.1",
+    "zod": "^4.1.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.3.5",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

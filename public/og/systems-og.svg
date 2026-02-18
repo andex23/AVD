@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="systems-og">
+  <rect width="1200" height="630" fill="#F6F7F9"/>
+  <rect x="72" y="72" width="1056" height="486" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="120" y="250" fill="#162A4F" font-family="Arial, sans-serif" font-size="46" font-weight="700">Acestar Villam Domum</text>
+  <text x="120" y="310" fill="#1C1F26" font-family="Arial, sans-serif" font-size="34">Websites Built to Perform</text>
+  <text x="120" y="360" fill="#4B5563" font-family="Arial, sans-serif" font-size="28">Systems Built to Scale</text>
+  <rect x="120" y="408" width="220" height="14" fill="#F25A2B"/>
+</svg>

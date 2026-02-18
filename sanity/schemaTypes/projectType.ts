@@ -1,0 +1,37 @@
+export const projectType = {
+  name: "project",
+  title: "Project",
+  type: "document",
+  fields: [
+    { name: "title", title: "Title", type: "string" },
+    { name: "slug", title: "Slug", type: "slug", options: { source: "title" } },
+    { name: "client", title: "Client", type: "string" },
+    { name: "industry", title: "Industry", type: "string" },
+    {
+      name: "services",
+      title: "Services",
+      type: "array",
+      of: [{ type: "string" }],
+      options: {
+        list: [
+          { title: "Website", value: "website" },
+          { title: "CRM", value: "crm" },
+          { title: "Automation", value: "automation" },
+          { title: "Branding", value: "branding" },
+        ],
+      },
+    },
+    { name: "coverImage", title: "Cover Image", type: "image", options: { hotspot: true } },
+    { name: "gallery", title: "Gallery", type: "array", of: [{ type: "image" }] },
+    { name: "brief", title: "Brief", type: "array", of: [{ type: "block" }] },
+    { name: "approach", title: "Approach", type: "array", of: [{ type: "block" }] },
+    { name: "build", title: "Build", type: "array", of: [{ type: "block" }] },
+    { name: "outcome", title: "Outcome", type: "array", of: [{ type: "block" }] },
+    { name: "palette", title: "Palette", type: "array", of: [{ type: "string" }] },
+    { name: "liveUrl", title: "Live URL", type: "url" },
+    { name: "publishedAt", title: "Published At", type: "datetime" },
+    { name: "timeline", title: "Timeline", type: "string" },
+    { name: "tags", title: "Tags", type: "array", of: [{ type: "string" }] },
+    { name: "featured", title: "Featured", type: "boolean", initialValue: false },
+  ],
+} as const;

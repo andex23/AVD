@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 240" role="img" aria-label="CRM status overlay card">
+  <rect width="420" height="240" rx="12" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="20" y="20" width="120" height="18" fill="#162A4F"/>
+  <circle cx="378" cy="29" r="7" fill="#16A34A"/>
+  <rect x="20" y="56" width="116" height="160" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="152" y="56" width="116" height="160" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="284" y="56" width="116" height="160" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="30" y="72" width="76" height="10" fill="#4B5563"/>
+  <rect x="162" y="72" width="76" height="10" fill="#4B5563"/>
+  <rect x="294" y="72" width="76" height="10" fill="#4B5563"/>
+  <rect x="30" y="98" width="94" height="30" rx="5" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="162" y="98" width="94" height="30" rx="5" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="294" y="98" width="94" height="30" rx="5" fill="#FFFFFF" stroke="#E5E7EB"/>
+</svg>

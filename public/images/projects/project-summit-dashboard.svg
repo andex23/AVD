@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-label="Summit Education project placeholder">
+  <rect width="1200" height="760" fill="#F6F7F9"/>
+  <rect x="52" y="50" width="1096" height="660" rx="10" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="92" y="92" width="1016" height="52" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="118" y="112" width="240" height="16" fill="#162A4F"/>
+  <rect x="92" y="190" width="220" height="460" rx="8" fill="#F9FAFB" stroke="#E5E7EB"/>
+  <rect x="344" y="190" width="764" height="220" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="344" y="430" width="240" height="220" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="606" y="430" width="240" height="220" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <rect x="868" y="430" width="240" height="220" rx="8" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="96" y="680" fill="#4B5563" font-family="Arial, sans-serif" font-size="20">Summit Education</text>
+</svg>
