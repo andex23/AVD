@@ -17,9 +17,9 @@
     "groq": "^4.2.1",
     "html2canvas": "^1.4.1",
     "lucide-react": "^0.541.0",
-    "next": "15.3.5",
-    "next-sanity": "^11.6.2",
+    "next": "^15.5.12",
     "next-pwa": "^5.6.0",
+    "next-sanity": "^11.6.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-draggable": "^4.5.0",
@@ -28,8 +28,8 @@
     "zod": "^4.1.5"
   },
   "devDependencies": {
-    "@playwright/test": "^1.58.2",
     "@eslint/eslintrc": "^3",
+    "@playwright/test": "^1.58.2",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
