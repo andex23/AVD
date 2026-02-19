@@ -7,6 +7,7 @@
     "build": "NODE_OPTIONS='--no-experimental-webstorage' next build",
     "start": "NODE_OPTIONS='--no-experimental-webstorage' next start",
     "lint": "NODE_OPTIONS='--no-experimental-webstorage' next lint",
+    "test": "NODE_OPTIONS='--no-experimental-webstorage' playwright test",
     "test:e2e": "NODE_OPTIONS='--no-experimental-webstorage' playwright test"
   },
   "dependencies": {

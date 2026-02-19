@@ -22,7 +22,7 @@ test.describe("AVD smoke", () => {
 
   test("work detail route opens from card", async ({ page }) => {
     await page.goto("/work");
-    const firstProjectLink = page.locator('a[href^="/work/"]').first();
+    const firstProjectLink = page.locator('main a[href^="/work/"]:not([href="/work"])').first();
     await expect(firstProjectLink).toBeVisible();
 
     const href = await firstProjectLink.getAttribute("href");
