@@ -1,36 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AVD — design and development
 
-## Getting Started
+Independent local redesign of the existing https://avd-six.vercel.app site. This is separate from AVD Clientive and from Studio Builder.
 
-First, run the development server:
+Baseline repository: https://github.com/andex23/AVD, commit2a912766d65d9d3136ba64cb3bf1c75f7cc2a66e. The revision uses Work & Co as a communication/layout reference without copying its identity, text or work.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Run
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- npm ci
+- npm run build
+- npm run start -- -p 4416
+- npm run typecheck
+- npm run lint
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Main routes: /, /work, /services, /systems, /about, /contact, /privacy, /terms. Four work details use real owned-project screenshots and verified destinations. Old placeholder case-study URLs redirect to /work.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+The project catalogue is a curated local source at src/content/projects.seed.ts. No CMS, account, paid service or backend is required. The older Sanity integration modules remain unused and do not make page requests.
 
-## Learn More
+Contact validates locally, offers review/edit/reset and downloads a text brief. No request is sent and no browser storage is written. The old unverified contact addresses, performance claims, example.com links and inert newsletter have been removed.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+See PLAN.md and SOURCES.md for the direction, source identity, references and image permissions/limits. Build/QA/publication evidence is coordinated in the parent redesign-v2 directory. Do not describe this revision as published until its deployment is confirmed.

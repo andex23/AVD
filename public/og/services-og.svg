@@ -1,8 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-label="services-og">
-  <rect width="1200" height="630" fill="#F6F7F9"/>
-  <rect x="72" y="72" width="1056" height="486" rx="14" fill="#FFFFFF" stroke="#E5E7EB"/>
-  <text x="120" y="250" fill="#162A4F" font-family="Arial, sans-serif" font-size="46" font-weight="700">Acestar Villam Domum</text>
-  <text x="120" y="310" fill="#1C1F26" font-family="Arial, sans-serif" font-size="34">Websites Built to Perform</text>
-  <text x="120" y="360" fill="#4B5563" font-family="Arial, sans-serif" font-size="28">Systems Built to Scale</text>
-  <rect x="120" y="408" width="220" height="14" fill="#F25A2B"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="white"/><text x="65" y="135" font-family="Arial,Helvetica,sans-serif" font-size="84" font-weight="700" letter-spacing="-6" fill="#161616">AVD<tspan fill="#cf2c16">.</tspan></text><text x="65" y="325" font-family="Arial,Helvetica,sans-serif" font-size="54" letter-spacing="-2" fill="#161616">Make the right thing work.</text><path d="M65 500H1135" stroke="#d0d0d0"/><text x="65" y="560" font-family="Arial,Helvetica,sans-serif" font-size="25" fill="#555">Acestar Villam Domum</text></svg>

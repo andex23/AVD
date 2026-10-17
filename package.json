@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "NODE_OPTIONS='--no-experimental-webstorage' next dev --turbopack",
-    "build": "NODE_OPTIONS='--no-experimental-webstorage' next build",
-    "start": "NODE_OPTIONS='--no-experimental-webstorage' next start",
-    "lint": "NODE_OPTIONS='--no-experimental-webstorage' next lint",
-    "test": "NODE_OPTIONS='--no-experimental-webstorage' playwright test",
-    "test:e2e": "NODE_OPTIONS='--no-experimental-webstorage' playwright test"
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "test": "playwright test",
+    "test:e2e": "playwright test",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
     "@sanity/client": "^7.13.2",
